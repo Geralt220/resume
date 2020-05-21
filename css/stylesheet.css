@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'thewitcher';
+    src: url('../fonts/thewitcher.woff2') format('woff2'), url('../fonts/thewitcher.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
